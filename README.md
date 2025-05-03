@@ -48,13 +48,6 @@ O estudo combina **análise exploratória de dados (EDA)**, visualização gráf
 
 ---
 
-## 📈 Exemplos de Visualizações
-
-![Exemplo de Correlação](https://i.imgur.com/Uz4xGkD.png)
-> *Correlação entre características técnicas dos laptops*
-
----
-
 ## 🚀 Como Executar
 
 1. Clone o repositório:
