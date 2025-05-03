@@ -48,6 +48,13 @@ O estudo combina **análise exploratória de dados (EDA)**, visualização gráf
 
 ---
 
+📌 Resultados
+O modelo Random Forest Regressor teve melhor desempenho, com R² próximo de 0.92.
+
+Características como tipo de processador, quantidade de RAM e tipo de armazenamento mostraram ser os principais influenciadores de preço.
+
+A abordagem pode ser estendida para marketplaces ou sites de recomendação de produtos.
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
