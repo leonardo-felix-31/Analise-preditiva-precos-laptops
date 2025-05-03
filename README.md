@@ -1,7 +1,5 @@
 # 💻 Análise Preditiva de Preços de Laptops
 
-![Laptops](https://img.freepik.com/free-photo/laptop-computer-desk-modern-office-interior-generated-by-ai_188544-19766.jpg)
-
 ## 📌 Descrição
 
 Este projeto tem como objetivo **analisar e prever os preços de laptops** com base em suas especificações técnicas e marcas. A análise foi conduzida em três frentes principais:
